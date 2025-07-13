@@ -15,7 +15,7 @@ In smodel.py, the class 'model' represents the 'CogniSNN' in paper, the class 'R
 
 For continual learning experiments, taking CogniSNN/ContinualLearning/RGA-SNN-WS as an example:
 
-Firstly, you must use the train.p, to train a model with old task(CIFAR100), as old model, its weight name Origin_Net.pth. 
+Firstly, you must use the train.py, to train a model with old task(CIFAR100), as old model, its weight name Origin_Net.pth. 
 
 Then you can use lwf.py to finish continual learning. 
 
