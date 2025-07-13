@@ -36,7 +36,7 @@ To be honest, due to the time constrains, the code for continual learning is not
 
 If you have any questions, please feel free to contact me through my email: Huangys124@163.com. Of course, you should ensure that this question is valuable.
 
-##Cite##
+## Cite
 
 If this article or repository is helpful to you, please cite it as follows (this is very important for me):
 
